@@ -1,0 +1,9 @@
+networq:core:node:
+  name: PSR Pack
+networq:requirement:requirement: ~
+networq:requirement:list:
+  requirements:
+    - networq:php:psr-0
+    - networq:php:psr-1
+    - networq:php:psr-2
+    - networq:php:psr-4

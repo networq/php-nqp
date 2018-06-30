@@ -1,0 +1,6 @@
+networq:core:node:
+  name: PSR-3
+  description: Logger Interface
+  url: https://www.php-fig.org/psr/psr-3/
+networq:requirement:requirement:
+  instruction: Code must comply to the PSR-3 standard

@@ -1,0 +1,6 @@
+networq:core:node:
+  name: PHP Base Pack
+networq:requirement:requirement: ~
+networq:requirement:list:
+  requirements:
+    - networq:php:psr-pack

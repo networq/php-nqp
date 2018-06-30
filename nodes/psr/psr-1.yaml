@@ -1,0 +1,6 @@
+networq:core:node:
+  name: PSR-1
+  description: Basic Coding Standard
+  url: https://www.php-fig.org/psr/psr-1/
+networq:requirement:requirement:
+  instruction: Code must comply to the PSR-1 standard

@@ -1,0 +1,6 @@
+networq:core:node:
+  name: PSR-4
+  description: Autoloading Standard
+  url: https://www.php-fig.org/psr/psr-4/
+networq:requirement:requirement:
+  instruction: Code must comply to the PSR-4 standard
